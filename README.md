@@ -26,45 +26,42 @@ A aplicação consiste em uma exposição de produtos onde o usuário faz seu lo
 ![Captura de tela 2024-11-17 122651](https://github.com/user-attachments/assets/77dcb017-ebc2-40fb-be8e-ac76cff4ce21)
 
 ## Informações de envio do produto que estava no carrinho:
-![Captura de tela 2024-11-17 122651](https://github.com/user-attachments/assets/311ce1df-9edc-4b6e-a9c6-6c54fe69cd86)
+![Captura de tela 2024-11-17 122726](https://github.com/user-attachments/assets/383859a2-2538-4a4d-9c16-bf33039ed7da)
+
 
 # Tecnologias utilizadas
 
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+- Back end: Node.js, Express, Stripe (Pagamento)
+- Front end web: React, Redux Toolkit
+- Banco de dados: MongoDB
 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Node.js
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto back end
 cd backend
 
 # executar o projeto
-./mvnw spring-boot:run
+yarn run prod
 ```
 
 ## Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd frontend
 
 # instalar dependências
 yarn install
 
 # executar o projeto
-yarn start
+yarn run start
 ```
 
 
