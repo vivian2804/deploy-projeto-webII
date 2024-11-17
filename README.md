@@ -1,15 +1,21 @@
 # Loja Online 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
 
-# Sobre o projeto
+# Link do projeto:
 
 https://shopit-v2-m4py.onrender.com/
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+# Sobre o projeto:
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A loja online Shop IT é uma aplicação full stack web construída durante as aulas de Desenvolvimento de Software para Web com as tecnologias: React, Redux Toolkit, Node.js, Express, MongoDB, Stripe (Pagamento).
 
-## Layout mobile
+A aplicação consiste em uma exposição de produtos onde o usuário faz seu login e consegue adicionar estes produtos ao carrinho, observar suas descrições e eventualmente comprá-los.
+
+## Tela de login:
+
+![image](https://github.com/user-attachments/assets/c551f2d7-e626-4c83-835d-81ae3a32dc55)
+
+## Tela inicial, após login:
 ![Tela 1](https://github.com/vivian2804/deploy-projeto-webII/blob/020-prepared-for-deploy/Captura%20de%20tela%202024-11-13%20221548.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
