@@ -16,7 +16,7 @@ A aplicação consiste em uma exposição de produtos onde o usuário faz seu lo
 ![image](https://github.com/user-attachments/assets/c551f2d7-e626-4c83-835d-81ae3a32dc55)
 
 ## Tela inicial, após login:
-![Tela 1](https://github.com/vivian2804/deploy-projeto-webII/blob/020-prepared-for-deploy/Captura%20de%20tela%202024-11-13%20221548.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Tela 1](https://github.com/vivian2804/deploy-projeto-webII/blob/020-prepared-for-deploy/Captura%20de%20tela%202024-11-13%20221548.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
